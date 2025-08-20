@@ -37,6 +37,16 @@
 - **计算属性**: computed 属性优化性能
 - **侦听器**: watch 监听数据变化
 - **UI 组件**: Element Plus 组件库美化界面
+### 🔧 效果图:
+<img width="1856" height="3432" alt="540e51d2a2daa5d91b1e5063fc8197d5" src="https://github.com/user-attachments/assets/b5221e16-ec3c-4e9c-96f3-ca2110521e2a" />
+<img width="1848" height="1654" alt="b373f0fd302005de112f3343e771581f" src="https://github.com/user-attachments/assets/9e4b9620-789f-4b9a-b7e3-ecea295fd68c" />
+<img width="1860" height="897" alt="264b6a20ea018c11ebd82adc07e668c8" src="https://github.com/user-attachments/assets/3f606fa1-39e3-4a0a-aa9d-27814827dd25" />
+<img width="1845" height="2779" alt="1e0ee500a22085894730993fe6e5137f" src="https://github.com/user-attachments/assets/db9a2422-5576-421b-9e61-a553e5ed19ec" />
+<img width="1857" height="2846" alt="5dc11ba2282aeb20e7d72c4bf25ddf28" src="https://github.com/user-attachments/assets/7819526a-fd36-43a9-add6-c0446f330658" />
+<img width="1854" height="890" alt="6eaf5d4d198ebd90dab59bccc0fd0649" src="https://github.com/user-attachments/assets/9e5202c3-5b66-4ee3-9df9-1709aa7502b0" />
+<img width="1852" height="890" alt="121abb8b29aa50701af347cc93cd8eea" src="https://github.com/user-attachments/assets/1a6c85bd-a850-43b4-b97f-ba0908071ff8" />
+<img width="1800" height="875" alt="f69ef0d94932fa59e8b9b8cfb9b00329" src="https://github.com/user-attachments/assets/af6f9762-5a53-4e1f-aefb-8c3298d3116d" />
+<img width="1840" height="858" alt="4c32f6434520299b592fb05a715cc36a" src="https://github.com/user-attachments/assets/8be50eda-e0ec-4f39-8198-97c825d2dbaa" />
 
 ## 🛠️ 项目结构
 
